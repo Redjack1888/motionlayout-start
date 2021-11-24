@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="30dp"
         android:contentDescription="@string/star"
-        android:tint="?colorSecondary"
+        app:tint="?colorSecondary"
         app:srcCompat="@drawable/ic_star_outline" />
 
 </androidx.constraintlayout.motion.widget.MotionLayout>
